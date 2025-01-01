@@ -1,60 +1,52 @@
-# A13 EXTENDED PROJECT ABSTRACT
-**Title**: Safe Guard IoT-Based Smart Helmet Accessory
+# Safe Guard IoT-Based Smart Helmet Accessory
 
-**Project Supervisor**: Subhasish Tiwari  
+## Project Overview
+The **Safe Guard IoT-Based Smart Helmet Accessory** is an innovative solution designed to enhance road safety. This IoT-based accessory can be retrofitted into existing helmets to ensure that riders comply with helmet usage regulations. The system prevents the bike engine from starting unless the helmet is worn, using proximity sensors, a microcontroller, and wireless communication technologies.
 
-**Cluster Name** (AI/ML, VLSI, Comm., CSP, Power Systems):IoT, Wireless Technologies  
+## Key Features
+- Ensures bike engine ignition only when the helmet is worn.
+- User-friendly design compatible with existing helmets.
+- Affordable and accessible solution promoting road safety and helmet compliance.
 
-**Project Coordinator**: Rohan Prasad
+## Objectives
+- Develop an IoT-based accessory to enforce helmet usage for bike engine ignition.
+- Design a system compatible with a wide range of existing helmets.
+- Provide an affordable and effective road safety solution.
 
-(If Interdisciplinary, share details)
+## Mini Project Outcomes
+- Developed a prototype detecting helmet usage via proximity sensors.
+- Implemented an alarm system upon helmet detection.
+- Gained expertise in microcontroller systems, sensor integration, and real-time testing.
 
- 
+## Timeline
+| **Activity**                  | **Start Date** | **End Date**   |
+|-------------------------------|----------------|----------------|
+| Literature Review             | Nov 26, 2024   | Dec 10, 2024   |
+| Component Selection           | Dec 11, 2024   | Dec 24, 2024   |
+| Hardware Design & Assembly    | Dec 26, 2024   | Jan 15, 2025   |
+| Coding & Sensor Integration   | Jan 16, 2025   | Feb 05, 2025   |
+| Wireless Tech Implementation  | Feb 06, 2025   | Feb 15, 2025   |
+| Testing & Debugging           | Feb 16, 2025   | Feb 29, 2025   |
+| Documentation                 | Mar 01, 2025   | Mar 10, 2025   |
+| Final Presentation Prep       | Mar 11, 2025   | Mar 15, 2025   |
 
-**Mini Project (PROJ2999) Outcome**: (Summary in 3-6 bullet points):
+## Team Members
+- **K. Steev Sushanth** - BU21EECE0100332
+- **T.S. Yousuf Ali** - BU21EECE0100155
+- **M. Praveen Kumar** - BU21EECE0100379
 
- - Developed a prototype detecting helmet usage using proximity sensors.  
+## Supervisor and Coordinator
+- **Supervisor**: Subhasish Tiwari
+- **Project Coordinator**: Rohan Prasad
 
- - Validated the helmet detection system, which buzzes an alarm upon helmet detection.  
+## IEEE Conference Suggestions
+- IEEE Internet of Things Conference (IoT)
+- IEEE International Conference on Consumer Electronics (ICCE)
 
- - Explored and applied microcontroller-based systems.  
+## License
+This project is licensed under the [MIT License](LICENSE).
 
- - Gained knowledge about sensor integration and real-time testing processes.
+---
 
- 
-
- 
-
- 
-
- 
-
- 
-
-**Extended Project Abstract** (up to 300 words)
-
-The Safe Guard IoT-Based Smart Helmet Accessory project introduces an innovative system designed to promote road safety by ensuring that riders wear helmets. This IoT-based accessory can be retrofitted into existing helmets to detect helmet usage and prevent the bike engine from starting if the helmet is not worn. By leveraging affordable proximity sensors, a microcontroller, and wireless communication technology, the system addresses the affordability barrier, making it accessible to a wider audience.  
-
- 
-
-This project emphasizes practicality, aiming to enhance helmet usage compliance without requiring the purchase of entirely new helmets. Expected results include a fully functional, affordable, and user-friendly smart accessory that integrates seamlessly with existing helmets, ensuring engine ignition only when the rider wears the helmet.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-**Extended Project Objectives** (up to 2-4 Bullet points)
-
-- Develop an IoT-based accessory that ensures engine ignition only when the helmet is worn.  
-
-- Design a user-friendly system compatible with existing helmets.    
-
-- Provide an affordable solution to enhance road safety and helmet compliance.  
+### How to Contribute
+We welcome contributions! Please create a pull request or report issues.
